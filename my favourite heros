@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Favourite Hero</title>
+</head>
+<body>
+	<h1>My Favourite Hero: [Hero's Name]</h1>
+	<img src="[Image URL]" alt="[Hero'"[Akshay Kumar]">
+	
+	<h2>About My Hero</h2>
+	<p>[ Akshay Kumar]</p>
+	
+	<h2>Heroic Qualities</h2>
+	<ul>
+		<li>[Quality 1: e.g., Bravery]</li>
+		<li>[Quality 2: e.g., Selflessness]</li>
+		<li>[Quality 3: e.g., Intelligence]</li>
+	</ul>
+	
+	<h2>favourite moments</h2>
+	<p>[Fighting ]</p>
+</body>
+</html>
